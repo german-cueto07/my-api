@@ -12,7 +12,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/${{ github.repository }}/my-api
+  IMAGE_NAME: ghcr.io/german-cueto07/my-api
 
 jobs:
   build:
